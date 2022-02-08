@@ -1,3 +1,4 @@
 Charles made a first test
 Welcome
 mito is here
+This is stash and rebase training
